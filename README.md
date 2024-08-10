@@ -1,0 +1,1 @@
+This project uses PowerBI to extract data from the database of the Smart-shop project. The dashboard includes key performance indicators for managers to monitor orders and distribution units. This project is an extension of the Smart-shop project.
